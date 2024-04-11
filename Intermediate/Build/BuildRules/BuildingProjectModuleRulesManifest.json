@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine\\Projects\\BuildingProject\\Source\\BuildingProject\\BuildingProject.Build.cs",
+		"D:\\Unreal Engine\\Projects\\BuildingProject\\Source\\BuildingProject.Target.cs",
+		"D:\\Unreal Engine\\Projects\\BuildingProject\\Source\\BuildingProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

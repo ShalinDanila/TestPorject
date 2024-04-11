@@ -1,0 +1,3 @@
+D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4\Development\BuildingProject\Definitions.BuildingProject.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

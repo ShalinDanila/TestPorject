@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BuildingProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C1F2C281-D67C-49B1-8EF3-4C9E5FCC1D08}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuildingProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BuildingProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1EF2D3E0-DDF7-459E-948D-116D6121A7D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BuildingProject">
+      <UniqueIdentifier>{E48073E6-46EF-44BC-8720-E02820C9F324}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuildingProject\BuildingProject.Build.cs">
+      <Filter>Source\BuildingProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BuildingProject\BuildingProject.cpp">
+      <Filter>Source\BuildingProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingProject\BuildingProject.h">
+      <Filter>Source\BuildingProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingProject\LoadNewLevel.cpp">
+      <Filter>Source\BuildingProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingProject\LoadNewLevel.h">
+      <Filter>Source\BuildingProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

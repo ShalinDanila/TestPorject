@@ -1,0 +1,2 @@
+D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\Definitions.BuildingProject.h
+D:\Unreal Engine\Projects\BuildingProject\Source\BuildingProject\BuildingProject.h

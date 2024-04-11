@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildingProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\BuildingProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\BuildingProject.cpp.obj"
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\LoadNewLevel.cpp.obj"
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\BuildingProject.init.gen.cpp.obj"
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\LoadNewLevel.gen.cpp.obj"
+"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Projects\BuildingProject\Intermediate\Build\Win64\UE4Editor\Development\BuildingProject\UE4Editor-BuildingProject.lib"
